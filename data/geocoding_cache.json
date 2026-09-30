@@ -1,0 +1,194 @@
+{
+  "aarhus university | denmark": {
+    "geocoded_name": "Aarhus Universitet, Eugen Warmings Vej, 8000, Eugen Warmings Vej, Aarhus, Region Midtjylland, Danmark",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Aarhus University, Denmark",
+    "geocoding_status": "ok",
+    "latitude": 56.1670905,
+    "longitude": 10.2026177
+  },
+  "adam mickiewicz university, poznań | poland": {
+    "geocoded_name": "Adam Mickiewicz, Henryka Wieniawskiego, 61-712, Henryka Wieniawskiego, Poznań, województwo wielkopolskie, Polska",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Adam Mickiewicz University, Poznań, Poland",
+    "geocoding_status": "ok",
+    "latitude": 52.4079965,
+    "longitude": 16.9168144
+  },
+  "chinese academy of sciences, beijing | china": {
+    "geocoded_name": "中国医学科学院 北京协和医学院, 9, 东单三条, 100730, 东单三条, 北京市, 北京市, 中国",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Chinese Academy of Sciences, Beijing, China",
+    "geocoding_status": "ok",
+    "latitude": 39.9099946,
+    "longitude": 116.4110562
+  },
+  "denver co | usa": {
+    "geocoded_name": "SGI-USA Denver Culture Center, 1450, Speer Boulevard, 80204, Speer Boulevard, Denver, CO, United States",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Denver CO, USA",
+    "geocoding_status": "ok",
+    "latitude": 39.7392897,
+    "longitude": -104.9971721
+  },
+  "fluminense federal university | brazil": {
+    "geocoded_name": "Federal University of Rio de Janeiro, Avenida Pedro Calmon, 21941-908, Avenida Pedro Calmon, Rio de Janeiro, Rio de Janeiro, Brasil",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Fluminense Federal University, Brazil",
+    "geocoding_status": "ok",
+    "latitude": -22.8626953,
+    "longitude": -43.2229771
+  },
+  "ghent university | belgium": {
+    "geocoded_name": "Universiteit Gent Vakgroep Textielkunde, 70A, Technologiepark-Zwijnaarde, 9052, Technologiepark-Zwijnaarde, Zwijnaarde, Oost-Vlaanderen, België / Belgique / Belgien",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Ghent University, Belgium",
+    "geocoding_status": "ok",
+    "latitude": 51.0078485,
+    "longitude": 3.7108831
+  },
+  "igme-csic, idaea-csic, iact-csic | spain": {
+    "geocoded_name": "Catedràtic Escardino - IATA-CSIC, Carrer del Catedràtic Agustín Escardino Benlloch, 46110, Carrer del Catedràtic Agustín Escardino Benlloch, Paterna, Comunitat Valenciana, España",
+    "geocoding_provider": "photon",
+    "geocoding_query": "IGME-CSIC, IDAEA-CSIC, IACT-CSIC, Spain",
+    "geocoding_status": "ok",
+    "latitude": 39.5142762,
+    "longitude": -0.4245237
+  },
+  "inrs (institut national de la recherche scientifique) | canada": {
+    "geocoded_name": "Institut national de la santé et de la recherche médicale, 2, Rue Henri le Guilloux, 35033, Rue Henri le Guilloux, Rennes, Bretagne, France",
+    "geocoding_provider": "photon",
+    "geocoding_query": "INRS (Institut national de la recherche scientifique), Canada",
+    "geocoding_status": "ok",
+    "latitude": 48.1192077,
+    "longitude": -1.696074
+  },
+  "jgu mainz | germany": {
+    "geocoded_name": "Mainz, Rheinland-Pfalz, Deutschland",
+    "geocoding_provider": "photon",
+    "geocoding_query": "JGU Mainz, Germany",
+    "geocoding_status": "ok",
+    "latitude": 49.9995205,
+    "longitude": 8.2736253
+  },
+  "marum, university of bremen | germany": {
+    "geocoded_name": "Universität Bremen, 1, Bibliothekstraße, 28359, Bibliothekstraße, Bremen, Freie Hansestadt Bremen, Deutschland",
+    "geocoding_provider": "photon",
+    "geocoding_query": "MARUM, University of Bremen, Germany",
+    "geocoding_status": "ok",
+    "latitude": 53.1079646,
+    "longitude": 8.8556646
+  },
+  "national taiwan university | taiwan": {
+    "geocoded_name": "國立臺灣大學, 1, 羅斯福路四段, 106319, 羅斯福路四段, 臺北市, 臺灣",
+    "geocoding_provider": "photon",
+    "geocoding_query": "National Taiwan University, Taiwan",
+    "geocoding_status": "ok",
+    "latitude": 25.0168175,
+    "longitude": 121.5384571
+  },
+  "newcastle university | uk": {
+    "geocoded_name": "Keele University, Keele Road, ST5 5BG, Keele Road, Newcastle-under-Lyme, England, United Kingdom",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Newcastle University, UK",
+    "geocoding_status": "ok",
+    "latitude": 53.0016756,
+    "longitude": -2.2706942
+  },
+  "nioz (royal netherlands institute for sea research) | netherlands": {
+    "geocoded_name": "Koninklijk Nederlands Instituut voor Onderzoek der Zee, 7, Korringaweg, 4401 NT, Korringaweg, Yerseke, Zeeland, Nederland",
+    "geocoding_provider": "photon",
+    "geocoding_query": "NIOZ (Royal Netherlands Institute for Sea Research), Netherlands",
+    "geocoding_status": "ok",
+    "latitude": 51.4887423,
+    "longitude": 4.0573221
+  },
+  "stockholm university | sweden": {
+    "geocoded_name": "Stockholms konstnärliga högskola, Norrtullstunneln, 114 86, Norrtullstunneln, Stockholm, Sverige",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Stockholm University, Sweden",
+    "geocoding_status": "ok",
+    "latitude": 59.3533631,
+    "longitude": 18.0661109
+  },
+  "universidad nactional de córdoba | argentina": {
+    "geocoded_name": "Universidad Nacional de Córdoba, Avenida Ciudad de Valparaíso, 5000, Avenida Ciudad de Valparaíso, Córdoba, Córdoba, Argentina",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Universidad Nactional de Córdoba, Argentina",
+    "geocoding_status": "ok",
+    "latitude": -31.4369591,
+    "longitude": -64.1876756
+  },
+  "university of barcelona | spain": {
+    "geocoded_name": "Universitat de Barcelona, Gran Via de les Corts Catalanes (lateral muntanya), 08007, Gran Via de les Corts Catalanes (lateral muntanya), Barcelona, Catalunya, España",
+    "geocoding_provider": "photon",
+    "geocoding_query": "University of Barcelona, Spain",
+    "geocoding_status": "ok",
+    "latitude": 41.3868595,
+    "longitude": 2.1634784
+  },
+  "university of bergen | norway": {
+    "geocoded_name": "Høgskulen på Vestlandet, Campus Kronstad, Johan Sverdrups vei, 5063, Johan Sverdrups vei, Bergen, Norge",
+    "geocoding_provider": "photon",
+    "geocoding_query": "University of Bergen, Norway",
+    "geocoding_status": "ok",
+    "latitude": 60.3688758,
+    "longitude": 5.3511115
+  },
+  "university of bern | switzerland": {
+    "geocoded_name": "Universität Bern, Falkenweg, 3012, Falkenweg, Bern, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra",
+    "geocoding_provider": "photon",
+    "geocoding_query": "University of Bern, Switzerland",
+    "geocoding_status": "ok",
+    "latitude": 46.9509499,
+    "longitude": 7.4386648
+  },
+  "university of gdansk | poland": {
+    "geocoded_name": "Uniwersytet Gdański, Doktora Władysława Paneckiego, 80-306, Doktora Władysława Paneckiego, Gdańsk, województwo pomorskie, Polska",
+    "geocoding_provider": "photon",
+    "geocoding_query": "University of Gdansk, Poland",
+    "geocoding_status": "ok",
+    "latitude": 54.396405,
+    "longitude": 18.57401
+  },
+  "university of innsbruck | austria": {
+    "geocoded_name": "Universität Innsbruck - Campus Innrain, Prandtauerufer, 6020, Prandtauerufer, Innsbruck, Tirol, Österreich",
+    "geocoding_provider": "photon",
+    "geocoding_query": "University of Innsbruck, Austria",
+    "geocoding_status": "ok",
+    "latitude": 47.263287,
+    "longitude": 11.3844497
+  },
+  "university of rouen normandy | france": {
+    "geocoded_name": "Institut national des sciences appliquées de Rouen, 685, Avenue de l'Université, 76800, Avenue de l'Université, Saint-Étienne-du-Rouvray, Normandie, France",
+    "geocoding_provider": "photon",
+    "geocoding_query": "University of Rouen Normandy, France",
+    "geocoding_status": "ok",
+    "latitude": 49.3849168,
+    "longitude": 1.0720751
+  },
+  "université clermont-auvergne, cnrs | france": {
+    "geocoded_name": "Bibliothèque universitaire Sciences des Cézeaux - Université Clermont Auvergne, 6, Place Vasarely, 63170, Place Vasarely, Aubière, Auvergne-Rhône-Alpes, France",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Université Clermont-Auvergne, CNRS, France",
+    "geocoding_status": "ok",
+    "latitude": 45.760228,
+    "longitude": 3.113961
+  },
+  "vermont state university | usa": {
+    "geocoded_name": "Vermont State University (Randolph Campus), 124, Admin Drive, 05061, Admin Drive, Randolph Center, VT, United States",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Vermont State University, USA",
+    "geocoding_status": "ok",
+    "latitude": 43.9380854,
+    "longitude": -72.599981
+  },
+  "vrije universiteit brussel | belgium": {
+    "geocoded_name": "Vrije Universiteit Brussel – Campus Etterbeek, Boulevard de la Plaine - Pleinlaan, 1050, Boulevard de la Plaine - Pleinlaan, Ixelles - Elsene, Région de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, België / Belgique / Belgien",
+    "geocoding_provider": "photon",
+    "geocoding_query": "Vrije Universiteit Brussel, Belgium",
+    "geocoding_status": "ok",
+    "latitude": 50.8225504,
+    "longitude": 4.3954969
+  }
+}

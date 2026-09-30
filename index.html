@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>PaleoIMAGING Techniques Map</title>
+
+  <meta
+    name="description"
+    content="Interactive map of PaleoIMAGING institutions, laboratories, and analytical/imaging techniques."
+  >
+
+  <!-- Leaflet CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  >
+
+  <!-- Project stylesheet -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="site-header__inner">
+      <div class="site-brand">
+        <img
+          src="paleoimaging_logo.png"
+          alt="PaleoIMAGING"
+          class="site-logo"
+        >
+
+        <div class="site-title">
+          <h1>Techniques Map</h1>
+          <p>
+            Interactive map of institutions, laboratories, and analytical/imaging
+            techniques in the PaleoIMAGING community.
+          </p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <section class="map-section" aria-labelledby="map-heading">
+      <div class="map-section__header">
+        <div>
+          <h2 id="map-heading">Institutional inventory</h2>
+          <p id="map-status" role="status" aria-live="polite">
+            Loading institutional data...
+          </p>
+        </div>
+      </div>
+
+      <div
+        id="map"
+        class="map"
+        role="region"
+        aria-label="Interactive world map of PaleoIMAGING institutions"
+      ></div>
+    </section>
+
+    <p class="data-disclaimer">
+      Need to update your information?
+      Edit your institution's entry directly in the
+      <a
+        href="https://drive.proton.me/urls/E34N231KC8#CeXQDi2BaM78"
+        target="_blank"
+        rel="noopener noreferrer"
+      >PaleoIMAGING Proton Drive inventory</a>.
+      Updates will appear on the map after the next data refresh.
+    </p>
+  </main>
+
+  <footer class="site-footer">
+    <p>PaleoIMAGING Data Formats community</p>
+  </footer>
+
+  <!-- Leaflet JavaScript -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Project JavaScript -->
+  <script src="map.js"></script>
+</body>
+</html>
